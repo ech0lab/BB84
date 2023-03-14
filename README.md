@@ -1,5 +1,10 @@
 # Implémentation de BB84 avec qiskit
 
+* Requirements :
+```
+qiskit 0.42.0
+```
+
 * Arguments : 
 
 ```
