@@ -16,3 +16,7 @@ optional arguments:
   -c CHECK, --check CHECK
                         Nombre de qubits à vérifier, defaut : 20
 ```
+
+* Bibliographie :
+
+https://qiskit.org/textbook/ch-algorithms/quantum-key-distribution.html
